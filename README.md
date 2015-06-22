@@ -1,4 +1,4 @@
-curl
+Curl class for php 5
 ====
 
-simple curl client for php
+Download simple curl client for php.
